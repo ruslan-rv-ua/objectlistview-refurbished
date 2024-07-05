@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "objectlistview-refurbished"
+version = "0.0.1"
+description = "Python ObjectListView fork"
+authors = ["Ruslan Iskov <ruslan.rv.ua@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
